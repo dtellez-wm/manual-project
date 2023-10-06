@@ -1,0 +1,507 @@
+﻿
+Índice
+INTRODUCCIÓN. 	2
+ÍNDICE	3
+LOGIN 	4
+VISOR	6
+VENTANAS	6
+MENÚ LATERAL	7
+FUNCIONALIDAD DE LAS VENTANAS 	10
+MAPA	12
+UNIDADES	15
+ÚLTIMA POSICIÓN 	24
+BUSCADOR	28
+-NOTIFICACIÓN 	30
+LOGIN
+Para iniciar sesión, ingrese el nombre de Usuario (correo electrónico) y la contraseña en los campos indicados (fig. 1.1).
+Puede consultar los requerimientos mínimos del sistema en el icono(fig. 1.1). 
+
+fig. 1.1
+En caso de olvidar su contraseña, seleccione recuperar Contraseña, ingrese el nombre de Usuario y seleccione Continuar. (Fig. 1.2)
+
+
+fig. 1.2
+Posteriormente recibirá un correo electrónico; ingrese y seleccione la palabra “aquí” (fig. 1.3), la cual lo direcciona a una nueva página en donde debe ingresar su nueva contraseña, considere que la 
+clasificación “fuerte”, considera la combinación de letras y números con un mínimo de 8 caracteres y un máximo de 20. Ej.: Ejemplo001 (fig. 1.4)
+
+
+fig. 1.3
+
+
+
+fig. 1.4
+Para concluir seleccione el icono Enviar, y visualice un mensaje de confirmación (fig. 1.5).
+
+fig. 1.5
+
+Después de iniciar sesión verá abiertas las ventanas Unidad1 y Notificaciones2. (fig. 1.6) 
+
+
+
+Fig. 1.6
+
+En la parte inferior de la pantalla, se muestran las ventanas abiertas en primer o segundo plano, agrupadas por módulo.
+
+Cuenta con cinco módulos fijos en la barra, cada uno maximiza o minimiza el panel al que hace referencia.
+Menú lateral1, Unidades2, Última posición3, Geoelementos4y Notificaciones5.
+
+MENÚ LATERAL
+“Menú Lateral”1, muestra el menú de las siguientes opciones: Cerrar sesión1, Opciones de menú2, Unidades3, Notificaciones4, Geoelementos5, Reportes6, Administración7, Telemetría8, Tablero9, Perfil de usuario10 y Acerca de nosotros11. (Fig. 1.7).
+
+
+Fig. 1.7
+PERFIL DEL USUARIO
+Al ingresar al menú lateral, puede visualizar la sección de perfil de usuario (Fig. 1.8) en la cual será reflejados datos como:
+
+
+Fig. 1.8
+
+    • Nombre y tipo de perfil de usuario.
+
+    • IP desde la cual se está accediendo a la plataforma.
+
+    • El último inicio de sesión, es decir, la fecha y hora más reciente en la cual se ingresó a la plataforma.
+
+    • El huso horario del Servidor y Navegador.
+
+A su vez, podrá configurar el usuario en base a sus preferencias: (Fig. 1.9)
+
+
+Fig. 19
+Cambiar Idioma: Para cambiar idioma seleccione la lista desplegable sobre la sección, a continuación elija el idioma y de clic en la marca de verificación.
+
+
+Cambiar	Iconografía: Esta funcionalidad permite escoger entre iconografía por eventos, vehículo o Custom, este último es personalizable. Para cambiar iconografía seleccione la lista desplegable a continuación elija la iconografía a utilizar y de clic en la marca de verificación.
+
+
+
+Fig. Simbología
+
+
+
+Vista Actual: Abra el menú de configuración de vistas, desde el cual puede crear, editar y eliminar vistas, así como elegir la vista por defecto.
+
+
+Cada Vista guarda una posición en el Mapa, permitiendo al Usuario elegir alguna de ellas como Vista de Inicio al seleccionar el ícono.
+Para crear una Vista, dé clic en la opción Agregar, tras lo cual, se abre el formulario de creación.
+
+    1. Seleccione la opción Agregar.
+    2. Se abrirá el formulario de creación.
+    3. Mueva el mapa para definir la vista inicial deseada.
+    4. Asigne nombre a la vista.
+    5. De clic en Guardar
+Cambiar contraseña: Permite cambiar la contraseña de su usuario. Al seleccionar esta opción, el sistema le pide ingresar su contraseña actual, si es correcta, posteriormente le solicita ingresar la nueva contraseña y confirmar para validar el cambio.
+
+
+FUNCIONALIDAD  DE  LAS  VENTANAS  Y  LA  BARRA  DE TAREAS
+
+
+Minimizar ventanas
+
+Cada una de las ventanas, cuenta con la opción de minimizarse, seleccionando el icono  que se encuentra en la esquina superior derecha de la ventana.
+
+Seleccionando el logo que se encuentra en la parte inferior de la barra de tareas, podrá minimizar todas las ventanas que se encuentren abiertas al mismo tiempo.
+
+
+Maximizar ventanas
+
+Algunas ventanas pueden expandirse a pantalla completa, seleccionando el icono de maximizar. Una vez estando en pantalla completa, puede revertir esta acción con el icono restablecer. 
+
+Cerrar ventanas
+
+Las ventanas pueden cerrarse (Con excepción de las que se encuentran abiertas por defecto, estas únicamente pueden minimizarse)Seleccione el icono que se encuentre en la esquina superior derecha de la ventana.
+
+
+Menú de ventanas
+
+Las ventanas Última posición, Unidad y Notificaciones, cuentan con un menú de opciones. Para mostrarlo, seleccione el icono de la esquina superior izquierda de la ventana.
+
+Unidad:
+
+
+
+
+
+
+Renombrar ventanas
+
+Las ventanas pueden renombrarse de manera que para usted sea más cómodo organizarlas. Para ello, haga doble clic en el título de la ventana y escriba el nombre que desee. Dé clic en el icono  para aceptar, o en el icono    para cancelar.
+
+
+
+Arrastrar ventanas
+
+Arrastre sus ventanas, según sus necesidades. Para hacerlo, deje presionado clic izquierdo del mouse, y mueva la ventana a donde desee.
+
+
+Opciones de ventanas desde la barra de tareas
+
+La barra de tareas también puede ejecutar las acciones de minimizar, cerrar y maximizar las ventanas. Coloque el cursor en alguno de los iconos de la barra de tareas y dé clic derecho, aparecerá un submenú que le permitirá minimizar las ventanas, cerrarlas, o maximizarlas en caso de que haya varias ejecutándose al mismo tiempo.
+
+
+MAPA
+El mapa cuenta con distintas herramientas, las cuales se encuentran en la parte superior izquierda de la pantalla:
+
+
+ Inicio: Permite volver a la vista inicial.
+ Alejar y Acercar: Aumenta/disminuye la escala del Mapa.
+
+ Posicionamiento: Centra el mapa en la ubicación desde donde se inició sesión. Sólo se podrá usar si el sitio cuenta con certificado de seguridad.
+Tráfico: Muestra el estado del tráfico en avenidas principales.
+
+   Transporte Público: Muestra las líneas del metro en Cd. de México, Monterrey y Guadalajara.
+
+  Cambiar Tipo de Mapa: Permite alternar la forma en que se visualiza el Mapa.
+
+
+
+
+ Imprimir  Mapa: Ejecuta  una  captura  de  lo  que  se  visualiza  en  el Mapa para su descarga o impresión.
+
+  Medidor de Distancias: Mide la separación entre dos o más puntos sobre el Mapa en líneas rectas
+
+Geoelementos: Con este botón se puede acceder al módulo de Geoelementos.
+Cambio de vista: Muestra la lista de vistas creadas y permite acceder al formulario de configuración de las mismas.
+
+Ayuda: Despliega las instrucciones para el uso del mouse y la simbología utilizada.
+
+Buscador de direcciones: El mapa cuenta con la barra de búsqueda de direcciones, localizada en la parte superior derecha, desde ella puede realizar la búsqueda de alguna dirección o sitio de interés. (Fig. 1.10)
+
+
+Fig. 1.10
+UNIDADES
+Este panel enlista todos los Clientes, Flotillas y Unidades que el Usuario
+tiene permiso para visualizar (fig. 1.11).
+
+
+fig. 1.11
+
+Para visualizar una Unidad sobre el Mapa, seleccione la casilla con el nombre de unidad.
+
+Una vez seleccionada el icono de dicha unidad se visualiza con un resplandor verde, se centra en el mapa y sobre esta se muestra un Tooltip que contiene información resumida de esa Unidad. 
+
+Última posición:
+
+    • Dirección de su última posición, fecha y hora de la misma. 
+    • Coordenadas (Acceso externo a google maps)
+    • Último evento detonado
+    • Tipo de vehículo 
+    • Orientación
+    • Kilometraje
+
+Geoelemento:
+
+    • La última geocerca en la que estuvo
+    • Último punto de interés cercano a la unidad. 
+
+Acreditado:
+
+    • Nombre del acreditado
+    • Teléfono del acreditado 
+
+Herramientas adicionales
+
+Editar esta Unidad: Abre el formulario de edición para la Unidad
+seleccionada en la sección Unidades, en el módulo de Administración.
+Cerrar Tooltip: Al hacer clic en este icono cerrará la información de la unidad que se muestra en el mapa.
+ Reporte de rastreo: 
+
+Monitorear Unidad: Abre una pantalla emergente en donde muestra la posición de la unidad. Puede mostrar hasta 20 unidades en una misma pantalla.
+
+
+Definir Como Origen: Define el elemento o punto seleccionado como punto de Origen en el panel de Ruteo.
+
+Definir Como Punto Intermedio: Define el elemento o punto seleccionado como Punto Intermedio en el panel de Ruteo, (Este se puede repetir en distintas ocasiones)
+
+           Punto de llegada: Define el elemento o punto seleccionado como punto de destino en el panel de Ruteo.
+
+ Hacer Búsqueda de Proximidad Aquí: Despliega el panel de Proximidad, tomando como centro de búsqueda el elemento o punto seleccionado.
+
+ Centrar en este punto: Centra la vista del Mapa en el elemento o punto seleccionado.
+
+
+
+
+ Ver Street View: Abre una ventana en donde se muestra una vista de 360° de la calle en donde se encuentra el punto seleccionado.
+
+Definir como Punto de Interés: Crea un Punto de Interés, con centro en las coordenadas indicadas en el Tooltip.
+
+ Reportar Emergencia a la Policía Federal: Abre una ventana nueva en la cual se incluye información de la unidad y al reportarla, se genera un folio de centinela.
+
+
+Abrir reporte histórico: Enlace directo a reporte histórico de la unidad.
+
+Pánico: Al hacer clic en este icono se genera una alerta que es enviada por correo, para esto debe estar configurada en el módulo de notificaciones.
+
+BUSCADOR
+Este panel sirve para realizar la búsqueda de lugares, a partir de direcciones, nombres o coordenadas (fig. 1.19).
+
+Para realizar la búsqueda, introduzca la información conocida y dé clic en el ícono 1, los resultados 2 encontrados se muestran enlistados en el panel.
+
+Buscar  dirección:  Ingresar calle, número, colonia, municipio, estado y país. Entre mayor información se proporcione al sistema más exactos son los resultados de la búsqueda. Ej. Eje 3 Sur Añil 571, Granjas México, Iztacalco, D.F, México.
+
+Buscar coordenadas: Se debe ingresar primero la longitud y después la latitud, no debe existir espacio después de la coma. Ej. -99.09598, 19.40248.
+
+Buscar lugares de interés: Únicamente debe escribir el nombre del museo, teatro, centro deportivo, etc
+RUTEO
+Esta herramienta toma como referencia los puntos que se agregaron como origen, intermedio y destino sobre el Mapa y genera una ruta que une dichos puntos con el trayecto más corto posible.
+
+Para generar un Ruteo, seleccione por lo menos un punto de Origen y un punto Destino desde el Tooltip o desde el menú de Opciones, seleccionando una Unidad. Una vez seleccionados, se despliega el panel de Ruteo, mostrando los puntos seleccionados y sus direcciones (fig. 1.20).
+
+
+Fig. 1.20
+
+Para visualizar sobre el Mapa el trayecto definido por el sistema, seleccione el íconopara mostrar las indicaciones a seguir (fig. 1.20).
+
+
+fig.1.21
+
+Para realizar otro cálculo, seleccione el ícono	y repita el proceso anterior.
+
+Seleccione el icono      para exportar el resultado de su ruteo a una Georuta.
+
+
+Además, al desplegar el panel de Última Posición, de la parte inferior de la pantalla (fig. 1.6), se muestra información detallada de todas las Unidades actualmente visualizadas en el Mapa.
+OPCIONES DE VENTANA DE UNIDADES
+Menú de Unidades
+
+Ayuda unidades: En esta sección se encuentran las indicaciones de uso de Mouse y uso de Filtro.
+
+
+
+Seleccionar filtros:En esta sección podrá seleccionar la información de búsqueda en el árbol de Unidades, por defecto se encuentran seleccionadas Cliente, Flotilla y Unidad.
+
+ Select:Se realiza la selección de todas las unidades en el mapa
+
+Centrar unidades seleccionadas: Muestra en el mapa las unidades elegidas por el cliente
+
+Select/Deselect All:	Ordena	unidades	de	forma	ascendente	y descendente.
+
+Contraer todo: Selecciona todas las unidades para mostrarlas en el mapa.
+COLORIMETRÍA
+Dentro del panel de unidades, se encuentra la colorimetría, en cada una de las unidades se visualiza sombreada la fecha y hora de su último reporte en color Verde, Amarillo, Naranja o rojo. Esto para que visualmente se detecten las unidades que llevan mayor tiempo sin reportar.
+
+
+Diagnóstico	de	unidad: Mediante	estos	iconos	se	puede conocer el estatus de la unidad
+
+Cuando los iconos se encuentran en color gris, es porque no han tenido ningún reporte y es necesario agregar los datos faltantes, con clic derecho sobre la Unidad puede acceder a editar los datos.
+
+
+OPCIONES
+Al presionar clic derecho sobre la unidad se muestran las múltiples funciones (Fig. 1.13), relacionadas con distintos paneles y módulos de la plataforma, las cuales son:
+
+
+fig. 1.13
+
+Ruteo: Marca el lugar donde se encuentra la Unidad seleccionada como Punto de Origen, Intermedio o Destino.
+
+Enviar  Comando: Ingresa a el Panel de Comandos, para enviar el comando, presione el icono . En caso de que el Usuario cuente con permisos para enviar diferentes Comandos, puede presionar el ícono, para desplegar la lista completa.
+
+Puede tener un máximo de 5 ventanas abiertas de distintas unidades a las cuales envía comandos.
+
+En la parte superior derecha, se muestran los íconos Opciones    y Configuración  ; en esta última, usted puede seleccionar entre 1, 3, 5 o “persistente” los intentos de envío del comando.
+
+Al seleccionar la opción “enviar comando”, se abre una ventana (fig. 1.15) donde se muestra el histórico de los últimos 10 comandos enviados por la unidad. Con clic en el ícono  se despliega la información del comando seleccionado, en el mismo se resalta el usuario que ha enviado el comando. Si no aparece un nombre de usuario, quiere decir que usted ha sido quien envió el comando.
+
+
+fig. 1.14
+
+Para conocer la disposición de respuesta que tiene la unidad al enviar un comando, se visualiza el ícono      con alta probabilidad de una respuesta, el ícono cuando hay baja probabilidades de respuesta y, por último, el ícono que indica muy baja probabilidad de una respuesta.
+
+Para establecer comunicación con el equipo y poder mandar comandos, utilice el ícono Opciones 1 que se encuentra en la ventana correspondiente a la unidad seleccionada (fig. 1.15) y a
+continuación presione el botón Chat 2, lo cual abre una nueva ventana para ingresar los comandos.3
+
+
+fig. 1.15
+
+Seguimiento:Cambia la frecuencia de reporte en encendido del valor establecido a un minuto.
+
+Proximidad: Despliega el Panel de Proximidad (fig. 1.16) usando como punto de Referencia la posición actual de la Unidad, para buscar cuáles son las Unidades o Puntos de Interés más cercanos.
+
+
+fig.1.16
+Si selecciona una búsqueda por distancia (fig. 1.16.1), el sistema busca Unidades o Puntos de Interés dentro del radio establecido, sin importar el número de resultados.
+
+
+fig.1.16.1
+
+Si selecciona una búsqueda por número de unidades (fig. 1.16.2), el sistema busca los resultados más cercanos, sin importar cuán lejos se encuentren.
+
+
+Fig.1.16.2
+
+Street View: Abre una ventana en donde se muestra una vista de 360° de la calle en donde se encuentra la Unidad.
+
+Monitoreo: Abre la ventana de monitoreo, en caso de estar abierta, agrega la Unidad seleccionada esa misma ventana. Puede agregar hasta 20 Unidades en la misma pantalla.
+
+
+
+La posición de cada Unidad se actualiza de forma automática, marcando los últimos 200 puntos, además, cada una de ellas cuenta con las opciones:
+
+Ocultar Ventana: oculta la ventana seleccionada.
+ Mostrar Ventana: muestra la ventana seleccionada.
+ Street View: muestra en la ventana una vista de 360° de la calle en donde se encuentra la Unidad.
+
+Ampliar Mapa: aumenta el tamaño del Mapa, hasta abarcar toda la ventana.
+
+Cerrar Mapa: retira la Unidad de la ventana.
+
+Reportes: Despliega la lista de Reportes disponibles. Una vez seleccionado el tipo de Reporte deseado, se abre el módulo de Reportes, precargando la información de la Unidad seleccionada.
+
+Telemetría: Despliega la lista de Reportes disponibles. Una vez seleccionado el tipo de Reporte deseado, se abre el módulo de Telemetría, precargando la información de la Unidad seleccionada.
+
+Editar: Permite actualizar los datos de la unidad
+
+ Asignar a Movilidad:Estaopción le permite Reportar a Movilidad, al seleccionarlo se visualizara un mensaje de confirmación.
+
+
+Cámara: Permite visualizar las cámaras dentro y/o fuera de la unidad.
+
+Notificaciones: Al seleccionar este icono se mostrara una lista de las Notificaciones creadas, al dar doble clic en el filtro se ordenarán de manera que las seleccionadas son las asignadas a la Unidad, a su vez podrá seleccionar el recuadro que se encuentra de lado izquierdo las
+
+que desea asignar a la Unidad, posteriormente seleccione el icono para realizar la Reasignación de Notificaciones.
+
+En la parte superior izquierda se encuentra el icono para crear una nueva notificación. 
+
+Aquellas Unidades que cuentan con equipos de Telemetría, tienen las siguientes opciones:
+
+
+
+Prueba de emisión: Abre la ventana de prueba de emisión de contaminantes, la cual sirve para determinar si su vehículo se encuentra dentro de los parámetros permitidos para la Ciudad de México y Zona Metropolitana. Para  Iniciar  la  prueba,  dé  clic  en  la  opción Iniciar Verificación, encontrada en la parte superior, con lo que, automáticamente, el sistema le arrojará los resultados de la prueba.
+
+Cuando las primeras cinco pruebas resultan exitosas se considera
+APROBADA la pre-verificación.
+
+En el caso que una de estas 5 pruebas resulte no exitosa se considera
+RECHAZADA la pre-verificación.
+
+El estatus de PRECAUCIÓN se genera cuando existen errores de CheckEngine, es posible que ese error dé por RECHAZADA la prueba, o es posible que no afecte dependiendo del tipo de error.
+
+
+
+
+
+
+
+ÚLTIMA POSICIÓN
+Este panel muestra información detallada sobre las Unidades
+visualizadas en el Mapa (fig. 1.17).
+
+Este se compone por las columnas: Estado, Cliente, Flotilla, Unidad, Equipo, R. de Equipo, R. de Servidor, Eq. En Línea, Sin Reportar, Evento, Dirección, Latitud/Longitud, Vel (km/h), Odo (km), Batería, POI, Distancia, Ultima notificación.
+
+
+fig. 1.17
+
+Estado: Muestra el estado en que se encuentra la unidad.
+
+Cliente: Muestra el nombre del cliente.
+
+Flotilla: Nombre de la flotilla a la que pertenece la unidad. Unidad: Muestra el nombre de la unidad del reporte generado. Equipo: Muestra el modelo del equipo
+Línea: Muestra el número de contacto del equipo.
+
+Reporte Equipo: Se refiere al día y hora en que la unidad generó algún evento.
+
+Reporte Servidor: Se refiere al día y hora en que la unidad envió el reporte al servidor.
+
+Equipo en Línea: Muestra el último día y hora en el que el equipo se encontraba en línea (cobertura GSM).
+
+Evento: Muestra los movimientos que está reportando la unidad.
+
+Dirección: Muestra el lugar donde se encuentra la unidad.
+
+Latitud, Longitud: Muestra las coordenadas exactas de la localización de la unidad.
+
+Velocidad km/h: Se refiere a la velocidad actual de cada unidad.
+Odómetro km: Muestra el kilometraje total que ha recorrido la unidad.
+
+Batería%: Muestra el porcentaje en el que se encuentra la batería de cada unidad, aplica únicamente para equipos portátiles.
+
+POI: Muestra el punto de interés asignado por el cliente.
+
+Distancia (m): Se refiere a la distancia que hay de una unidad a otra.
+
+Sin Reportar: Muestra el día y la hora en los que no ha reportado la unidad.
+
+Última notificación: Muestra la última notificación generada por el equipo, esto solo muestra de dos meses a la fecha.
+
+
+
+
+NOTIFICACIONES
+El módulo se encuentra de lado izquierdo de la pantalla principal, en él se enlistan todas las Notificaciones generadas, asignadas al Usuario.
+
+
+Al ingresar a la Plataforma, esta solicita un permiso para generar Notificaciones desde el navegador con un mensaje emergente que mostrara las Notificaciones pendientes.
+
+
+1Panel de Notificación Extendida:En este panel puede ver la importancia de las notificaciones de acuerdo con el tiempo en que fueron generadas y atendidas.
+
+Seleccione el icono para abrir una nueva ventana con la información de las notificaciones activas
+
+
+Al presionar clic derecho sobre la notificación, muestra los siguientes accesos.
+
+
+Centrar unidad: Centra la unidad en el mapa de la página principal.
+
+ Centrar notificación: Abre una ventana que se puede redimensionar y arrastrar, mostrando la ubicación en el mapa de la notificación (fig. 1.21).
+
+
+Fig.1.21
+
+Street view: abre una ventana que muestra la vista de calle sin necesidad de ir a la pantalla principal, se puede redimensionar y arrastrar (fig.1.22).
+
+
+Fig.1.22
+
+Detalle: Abre una nueva ventana que muestra la información de la notificación de acuerdo con las veces que se ha repetido (fig.1.23)
+
+fig. 1.23
+
+Atender notificación: Atiende notificación de la misma forma que se hace actualmente.
+
+Dar seguimiento: Se despliega la ventana de seguimiento de notificación en la página principal.
+
+Paro de motor: se envía el comando para realizar un paro de motor a la unidad, solo en caso de que el equipo sea compatible.
+
+
+2: Centrar eventos: Al selecionar el icono, se visualizan todas las Notificaciones en el Mapa.
+
+3: Desactivar Sonido:Con este icono puede habilitar y deshabilitar el sonido de las Notificaciones.
+
+4: Ubicar Unidad: Al seleccionar el icono, muestra la Unidad en su posición actual en el Mapa.
+
+5: Notificaciones Totales:El contador, ubicado a la derecha del nombre de la Unidad, indica cuántas Notificaciones diferentes fueron detonadas por ella.
+
+Para atender la Notificación, seleccione el ícono 6
+
+El contador7, que se encuentra junto al nombre de una Notificación, indica el número de veces que ha sido detonada sin haber sido atendida. Al seleccionarlo, se despliega la lista de todos los registros encontrados (fig.1.24)
+
+
+fig.1.24
+
+El ícono  8 que se encuentra a la izquierda del nombre de la Notificación abre la ventana de Seguimiento (fig.1.25), en ella puede registrar cualquier comentario u observación referente a la Notificación y consultar la información de la Unidad. En la sección de “Detalle” puede verificar el evento detonado y la dirección del mismo. (Fig. 1.26)
+
+Fig.1.25
+
+
+Fig.1.26
+
+Desde el icono  9 cuenta acceso directo a cámaras, el icono se mostrara por notificación siempre y cuando la Unidad cuente con cámaras.
+
+En el menú de Opciones, que se muestra con clic izquierdo en puede realizar la configuración los Parámetros de tiempo, Criticidad y Audio.
+
+
+Parámetros:
+
+Podrá elegir el tiempo que se visualizan las notificaciones que ya fueron atendidas (1min, 5min, 10min, 30min, 1 hora o 3 horas).
+
+#Max. No atendidas en detalle: Seleccione el número de notificaciones no atendidas, que se van a mostrar 5, 10, 20, 30 o 50.
+
+Criticidad:
+
+Seleccione el tipo de notificaciones que se van a mostrar.
+
+Audio:
+
+En esta sección puede realizar el cambio de audio para cada tipo de Notificación. Para subir un audio seleccione    , los archivos permitidos son: .mp3/.ogg/.mpeg/.wav, con un peso máximo de 100kb y le permite subir hasta 10 Sonidos por tipo.
