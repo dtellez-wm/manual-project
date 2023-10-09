@@ -1,10 +1,8 @@
-import { Sidebar, Button } from "flowbite-react";
-import { HiArrowSmRight, HiChartPie, HiMap, HiLocationMarker, HiInbox, HiShoppingBag, HiTable, HiUser, HiViewBoards } from "react-icons/hi";
-import { HiOutlineArrowRight, HiShoppingCart } from "react-icons/hi";
-
+import { Sidebar } from "flowbite-react";
+import { HiArrowSmRight, HiChartPie, HiMap, HiLocationMarker, HiBell, HiUser, HiViewBoards } from "react-icons/hi";
 function DefaultSidebar() {
   return (
-    <Sidebar aria-label="Default sidebar example">
+    <Sidebar>
       <Sidebar.Items>
         <Sidebar.ItemGroup>
           <Sidebar.Item href="#" icon={HiUser}>
@@ -34,7 +32,7 @@ function DefaultSidebar() {
           <Sidebar.Item href="#" icon={HiArrowSmRight}>
             <p>Buscador</p>
           </Sidebar.Item>
-          <Sidebar.Item href="#" icon={HiTable}>
+          <Sidebar.Item href="#" icon={HiBell}>
             <p>Notificación</p>
           </Sidebar.Item>
         </Sidebar.ItemGroup>
