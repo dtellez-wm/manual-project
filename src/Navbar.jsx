@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { useState } from "react";
 import { Button } from 'flowbite-react';
 import { HiOutlineMoon } from "react-icons/hi";
+import Content from "./Content";
 
 function Navbar() {
   const [theme, setTheme] = useState(() => {
@@ -86,6 +87,7 @@ function Navbar() {
           </ul>
         </div>
       </div>
+      <Content></Content>
     </nav>
   );
 }
