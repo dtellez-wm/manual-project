@@ -1,0 +1,25 @@
+{
+    "sections": [
+      {
+        "title": "LOGIN",
+        "content": "Descripción del login...",
+        "subsections": [
+          {
+            "title": "Subsección 1",
+            "content": "Contenido de la subsección 1..."
+          },
+          {
+            "title": "Subsección 2",
+            "content": "Contenido de la subsección 2..."
+          }
+        ]
+      },
+      {
+        "title": "VISOR",
+        "content": "Descripción del visor...",
+        "subsections": []
+      }
+      // ... más secciones
+    ]
+  }
+  

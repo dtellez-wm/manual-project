@@ -1,9 +1,9 @@
-import React from 'react'
-
 function Content() {
   return (
-    <div className='bg-neutral-200 p-4 h-full flex justify-center' >Hola desde contenido</div>
-  )
+    <div aria-label="Content" className="bg-neutral-200 p-4 h-[75%] flex justify-center">
+      Hola desde contenido
+    </div>
+  );
 }
 
-export default Content
+export default Content;
