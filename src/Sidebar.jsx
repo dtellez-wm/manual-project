@@ -6,34 +6,37 @@ function DefaultSidebar() {
       <Sidebar.Items>
         <Sidebar.ItemGroup>
           <Sidebar.Item href="#" icon={HiUser}>
-            <p>LOGIN</p>
+            <p>MENÚ LATERAL</p>
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiViewBoards}>
-            <p>VISOR</p>
+            <p>PERFIL DEL USUARIO</p>
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiViewBoards}>
-            <p>VENTANA</p>
+            <p>BARRA DE TAREAS</p>
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiChartPie}>
-            <p>MENÚ</p>
-          </Sidebar.Item>
-          <Sidebar.Item href="#" icon={HiViewBoards}>
-            <p>FUNCIONALIDAD</p>
-          </Sidebar.Item>
-          <Sidebar.Item href="#" icon={HiMap}>
             <p>MAPA</p>
           </Sidebar.Item>
-          <Sidebar.Item href="#" icon={HiUser}>
+          <Sidebar.Item href="#" icon={HiViewBoards}>
             <p>UNIDADES</p>
           </Sidebar.Item>
+          <Sidebar.Item href="#" icon={HiMap}>
+            <p>BUSCADOR</p>
+          </Sidebar.Item>
+          <Sidebar.Item href="#" icon={HiUser}>
+            <p>RUTEO</p>
+          </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiLocationMarker}>
-            <p>Ultima posición</p>
+            <p>VENTANA DE UNIDADES</p>
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiArrowSmRight}>
-            <p>Buscador</p>
+            <p>COLORIMETRÍA</p>
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiBell}>
-            <p>Notificación</p>
+            <p>ÚLTIMA POSICIÓN</p>
+          </Sidebar.Item>
+          <Sidebar.Item href="#" icon={HiBell}>
+            <p>NOTIFICACIONES</p>
           </Sidebar.Item>
         </Sidebar.ItemGroup>
       </Sidebar.Items>
