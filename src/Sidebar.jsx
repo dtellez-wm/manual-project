@@ -2,7 +2,7 @@ import { Sidebar } from "flowbite-react";
 import { HiArrowSmRight, HiChartPie, HiMap, HiLocationMarker, HiBell, HiUser, HiViewBoards } from "react-icons/hi";
 function DefaultSidebar() {
   return (
-    <Sidebar>
+    <Sidebar className="" >
       <Sidebar.Items>
         <Sidebar.ItemGroup>
           <Sidebar.Item href="#" icon={HiUser}>

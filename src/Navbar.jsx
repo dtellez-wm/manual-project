@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import { Button } from "flowbite-react";
-import { HiOutlineMoon } from "react-icons/hi";
+import { HiOutlineMoon, HiOutlineSun } from "react-icons/hi";
 import Content from "./Content";
 
 function Navbar() {
@@ -25,9 +25,9 @@ function Navbar() {
   };
 
   return (
-    <nav aria-label="Navbar" className="w-full bg-white border-gray-200 dark:bg-gray-900">
+    <nav aria-label="Navbar" className="w-full h-fit bg-white border-gray-200 dark:bg-gray-900">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-center mx-auto p-4">
-        <div className="max-w-screen-xl flex flex-wrap justify-center mx-auto p-4">
+        <div className="max-w-screen-xl flex flex-wrap justify-center mx-auto p-1">
           <a href="#" className="flex items-center">
             <img
               src="https://manual.webmaps.com.mx/mobile/css/Login/images/9c271f8a2e8c1453d25925b23c239dcba0226afddd7c3ebbce7c82f10f30ac34_logoLogin.svg"
@@ -79,8 +79,8 @@ function Navbar() {
               className="bg-slate-500 border-gray-400 text-black px-4 py-2 rounded hover:bg-slate-600 dark:bg-slate-300 dark:hover:bg-slate-100 dark:text-black"
               onClick={handleChangeTheme}
             >
-              Modo oscuro
-              <HiOutlineMoon className="ml-2 h-5 w-5" />
+              {theme === "dark" ? "Modo claro" : "Modo oscuro"}
+              {theme === "dark" ? <HiOutlineSun className="ml-2 h-5 w-5" /> : <HiOutlineMoon className="ml-2 h-5 w-5" />}
             </Button>
           </ul>
         </div>
