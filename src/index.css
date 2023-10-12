@@ -3,11 +3,14 @@
 @tailwind utilities;
 
 @layer components {
-    .example {
-      @apply bg-white;
-    }
-    .test {
-      @apply bg-black;
-    }
+  .example {
+    @apply bg-white;
   }
-  
+  .test {
+    @apply bg-black;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}

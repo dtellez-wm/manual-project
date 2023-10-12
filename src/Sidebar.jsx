@@ -5,7 +5,7 @@ function DefaultSidebar() {
     <Sidebar className="" >
       <Sidebar.Items>
         <Sidebar.ItemGroup>
-          <Sidebar.Item href="#prueba" icon={HiUser}>
+          <Sidebar.Item href="#menu" icon={HiUser}>
             <p>MENÚ LATERAL</p>
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiViewBoards}>

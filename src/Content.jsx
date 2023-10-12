@@ -28,6 +28,25 @@ function Content() {
         <p>Para concluir seleccione el icono Enviar, y visualice un mensaje de confirmación (fig. 1.5).</p>
         <Image alt="fig. 1.5" caption="Fig. 1.5: Imagen de confirmación"></Image>
         <p>Después de iniciar sesión verá abiertas las ventanas Unidad1 y Notificaciones2. (fig. 1.6) </p>
+        <Image alt="fig. 1.6" caption="Fig. 1.6: Imagen de inicio"></Image>
+        <p>
+          En la parte inferior de la pantalla, se muestran las ventanas abiertas en primer o segundo plano, agrupadas por módulo. Cuenta con
+          cinco módulos fijos en la barra, cada uno maximiza o minimiza el panel al que hace referencia. Menú lateral
+          <span className="text-red-600 text-xs">1</span>, Unidades
+          <span className="text-red-600 text-xs">2</span>, Última posición
+          <span className="text-red-600 text-xs">3</span>, Geoelementos
+          <span className="text-red-600 text-xs">4</span>, y Notificaciones
+          <span className="text-red-600 text-xs">5</span>.
+        </p>
+        <Image alt="fig 1. 2. 3. 4. 5." caption="Fig. 1. 2. 3. 4. 5."></Image>
+        <h2 id="menu" className="font-bold text-xl dark:text-slate-200">
+          MENÚ LATERAL
+        </h2>
+        <p>
+          “Menú Lateral”1, muestra el menú de las siguientes opciones: Cerrar sesión1, Opciones de menú2, Unidades3, Notificaciones4,
+          Geoelementos5, Reportes6, Administración7, Telemetría8, Tablero9, Perfil de usuario10 y Acerca de nosotros11. (Fig. 1.7).
+        </p>
+        <Image alt="Fig. 1.7" caption="Fig. 1.7 Imagen del menu lateral"></Image>
       </div>
     </div>
   );
