@@ -8,7 +8,7 @@ function DefaultSidebar() {
           <Sidebar.Item href="#menu" icon={HiUser}>
             <p>MENÚ LATERAL</p>
           </Sidebar.Item>
-          <Sidebar.Item href="#" icon={HiViewBoards}>
+          <Sidebar.Item href="#perfil" icon={HiViewBoards}>
             <p>PERFIL DEL USUARIO</p>
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiViewBoards}>
