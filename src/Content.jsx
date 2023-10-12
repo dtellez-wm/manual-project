@@ -17,12 +17,17 @@ function Content() {
         <p>
           En caso de olvidar su contraseña, seleccione recuperar Contraseña, ingrese el nombre de Usuario y seleccione Continuar. (Fig. 1.2)
         </p>
-        <Image alt="fig. 1.2" caption="Fig. 1.2: Imagen de recuperación" ></Image>
+        <Image alt="fig. 1.2" caption="Fig. 1.2: Imagen de recuperación"></Image>
         <p>
           Posteriormente recibirá un correo electrónico; ingrese y seleccione la palabra “aquí” (fig. 1.3), la cual lo direcciona a una
           nueva página en donde debe ingresar su nueva contraseña, considere que la clasificación “fuerte”, considera la combinación de
           letras y números con un mínimo de 8 caracteres y un máximo de 20. Ej.: Ejemplo001 (fig. 1.4)
         </p>
+        <Image alt="fig. 1.3" caption="Fig. 1.3: Imagen de correo"></Image>
+        <Image alt="fig. 1.4" caption="Fig. 1.4: Imagen de creación de contraseña"></Image>
+        <p>Para concluir seleccione el icono Enviar, y visualice un mensaje de confirmación (fig. 1.5).</p>
+        <Image alt="fig. 1.5" caption="Fig. 1.5: Imagen de confirmación"></Image>
+        <p>Después de iniciar sesión verá abiertas las ventanas Unidad1 y Notificaciones2. (fig. 1.6) </p>
       </div>
     </div>
   );
