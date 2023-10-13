@@ -55,13 +55,53 @@ function Content() {
         </p>
         <Image alt="Fig. 1.8" caption="Fig. 1. Imagen del perfil"></Image>
         <ul className="text-left">
-          <li>Nombre y tipo de perfil de usuario.</li>
-          <li>IP desde la cual se está accediendo a la plataforma.</li>
-          <li>El último inicio de sesión, es decir, la fecha y hora más reciente en la cual se ingresó a la plataforma.</li>
-          <li>El huso horario del Servidor y Navegador.</li>
+          <li>- Nombre y tipo de perfil de usuario.</li>
+          <li>- IP desde la cual se está accediendo a la plataforma.</li>
+          <li>- El último inicio de sesión, es decir, la fecha y hora más reciente en la cual se ingresó a la plataforma.</li>
+          <li>- El huso horario del Servidor y Navegador.</li>
         </ul>
         <p>A su vez, podrá configurar el usuario en base a sus preferencias: (Fig. 1.9)</p>
         <Image alt="Fig. 1.9" caption="Fig. 1. Imagen de las preferencias"></Image>
+        <h3>Cambiar Idioma:</h3>
+        <p>
+          Para cambiar idioma seleccione la lista desplegable sobre la sección, a continuación elija el idioma y de clic en la marca de
+          verificación.
+        </p>
+        <Image alt="Izquierda" caption="Izquierda"></Image>
+        <h3>Cambiar Iconografía:</h3>
+        <p>
+          Esta funcionalidad permite escoger entre iconografía por eventos, vehículo o Custom, este último es personalizable. Para cambiar
+          iconografía seleccione la lista desplegable a continuación elija la iconografía a utilizar y de clic en la marca de verificación.
+        </p>
+        <Image alt="Izquierda" caption="Izquierda"></Image>
+        <Image alt="Fig. Simbología" caption="Fig. Imagen de la simbologia"></Image>
+        <h3>Vista Actual:</h3>
+        <p>
+          Abra el menú de configuración de vistas, desde el cual puede crear, editar y eliminar vistas, así como elegir la vista por
+          defecto.
+        </p>
+        <Image alt="Izquierda" caption="Izquierda"></Image>
+        <p>
+          Cada Vista guarda una posición en el Mapa, permitiendo al Usuario elegir alguna de ellas como Vista de Inicio al seleccionar el
+          ícono [ICONO CASA]. Para crear una Vista, dé clic en la opción Agregar, tras lo cual, se abre el formulario de creación.
+        </p>
+        <ol className="text-left">
+          <li>Seleccione la opción Agregar.</li>
+          <li>Se abrirá el formulario de creación.</li>
+          <li>Mueva el mapa para definir la vista inicial deseada.</li>
+          <li>Asigne nombre a la vista.</li>
+          <li>De clic en Guardar</li>
+        </ol>
+        <h3>Cambiar contraseña:</h3>
+        <p>
+          Permite cambiar la contraseña de su usuario. Al seleccionar esta opción, el sistema le pide ingresar su contraseña actual, si es
+          correcta, posteriormente le solicita ingresar la nueva contraseña y confirmar para validar el cambio.
+        </p>
+        <Image alt="Cambio de constraseña" caption="Cambio de constraseña"></Image>
+        <h2 id="barra" className="m-4 font-bold text-xl dark:text-slate-200">
+          FUNCIONALIDAD DE LAS VENTANAS Y LA BARRA DE TAREAS
+        </h2>
+        <Image  ></Image>
       </div>
     </div>
   );

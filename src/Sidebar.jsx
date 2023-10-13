@@ -11,7 +11,7 @@ function DefaultSidebar() {
           <Sidebar.Item href="#perfil" icon={HiViewBoards}>
             <p>PERFIL DEL USUARIO</p>
           </Sidebar.Item>
-          <Sidebar.Item href="#" icon={HiViewBoards}>
+          <Sidebar.Item href="#barra" icon={HiViewBoards}>
             <p>BARRA DE TAREAS</p>
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiChartPie}>
